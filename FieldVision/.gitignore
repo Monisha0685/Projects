@@ -1,0 +1,39 @@
+# ==============================
+# Large / Local Project Files
+# ==============================
+
+# Virtual environments
+fieldvision/
+
+# YOLO training runs / generated outputs
+runs/
+
+# Generated training data/output
+training/football-players-detection-1/
+training/runs/
+
+# Model files
+*.pt
+
+# Large archives
+*.zip
+
+# Generated stub/cache files
+*.pkl
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Output videos
+output_videos/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# PPT
+*.pptx
